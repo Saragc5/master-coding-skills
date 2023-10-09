@@ -1,5 +1,3 @@
-const { log } = require("console");
-
 /*
 Enunciado Ejercicio 12:
 Crea un programa que cuente las palabras de un texto y me diga cuántas veces aparece en el texto
